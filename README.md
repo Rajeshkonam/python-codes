@@ -1,2 +1,1 @@
-# python-codes
-codes practices in python
+print("Hello World")
